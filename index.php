@@ -76,7 +76,7 @@
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="contact.html" class="nav-item nav-link">Liên hệ</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
@@ -105,9 +105,9 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown">Organic Food Is Good For Health</h1>
-                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
+                                    <h1 class="display-2 mb-5 animated slideInDown">Thực phẩm sạch tốt cho sức khỏe</h1>
+                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Sản phẩm</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Dịch vụ</a>
                                 </div>
                             </div>
                         </div>
@@ -119,9 +119,9 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown">Natural Food Is Always Healthy</h1>
-                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
+                                    <h1 class="display-2 mb-5 animated slideInDown">Sản phẩm tự nhiên</h1>
+                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Sản phẩm</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Dịch vụ</a>
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                  <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
                 </div>
             </div>
         </div>
